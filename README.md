@@ -1,4 +1,6 @@
-Read the article to know about this project -> (Add Blog article Link here)
+Read the article to know about this project -> (Add Blog article Link here).
+
+Check out `openai` cook book from where the [original code](https://github.com/openai/openai-cookbook/tree/main/solutions/web_crawl_Q%26A) is picked and modified.
 
 ### Installation
 * Have `python3` installed on your system.
