@@ -1,4 +1,4 @@
-Read the article to know about this project -> https://blog.lakbychance.com/prototyping-a-qa-web-using-openai
+Read the article to know more about this project -> https://blog.lakbychance.com/prototyping-a-qa-web-using-openai
 
 Check out `openai` cook book from where the [original code](https://github.com/openai/openai-cookbook/tree/main/solutions/web_crawl_Q%26A) is picked and modified.
 
