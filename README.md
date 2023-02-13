@@ -8,7 +8,8 @@ Check out `openai` cook book from where the [original code](https://github.com/o
 * If you run into `setuptools` related error, then install `setuptools` as well. 
 
 ### Running
-`python3 server.py` would start the flask server.
+* Add `OPENAI_API_KEY: <API TOKEN>` to `.env` file.
+* `python3 server.py` would start the flask server.
 
 ### Usage
 Hit the `http://localhost:5000/ask` route with **required** query params of `question` and `url`. 
